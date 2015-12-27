@@ -31,19 +31,19 @@ html, body {
     left: 0;
 }
 .slide li:nth-child(1) {
-    background: url(images/year.jpg) no-repeat;
+    background: url(image/year.jpg) no-repeat;
 }
 .slide li:nth-child(2) {
-    background: url(images/bg.jpg) no-repeat;
+    background: url(image/ll.jpg) no-repeat;
 }
 .slide li:nth-child(3) {
-    background: #9FE4DB;
+    background: url(image/bygirl2.png) no-repeat;
 }
 .slide li:nth-child(4) {
-    background: url(images/bg.jpg) no-repeat;
+    background: url(image/bygirl.jpg) no-repeat;
 }
 .slide li:nth-child(5) {
-    background: #9FE4DB;
+    background: url(image/qiqiu.jpg) no-repeat;
 }
 .zIndex {
     z-index: 111;
@@ -280,8 +280,8 @@ html, body {
     width: 100%;
     text-align: center;
     position: absolute;
-    bottom: 45%;
-    color: lightyellow;
+    top: 45%;
+    color: yellow;
     line-height: 50px;
     font-size: 45px;
     font-weight: bolder;
